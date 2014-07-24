@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 ## This program compute the Inverse Matrix and cache it. Inversion is usually a costly computation
-## and their may be some benefit to caching the inverse of a matrix rather than compute it repeatedly. 
+## and their may be some benefit to caching the inverse of a matrix rather than compute it repeatedly.
 
 ## Write a short comment describing this function
 
